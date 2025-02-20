@@ -1,0 +1,8 @@
+{
+  "name": "Tedu_social",
+  "version": "1.0.0",
+  "description": "A mini Social network for Tedu Community",
+  "main": "src/server.ts",
+  "author": "Hung",
+  "license": "MIT"
+}
