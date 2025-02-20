@@ -15,4 +15,5 @@
 - git confit --global
 - git remote add origin 
 - git push -u origin main
+- tsc --init
 
