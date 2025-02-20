@@ -12,4 +12,7 @@
 - git init
 - git commit -m "   "
 - git add .
+- git confit --global
+- git remote add origin 
+- git push -u origin main
 
